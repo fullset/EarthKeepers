@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<solutions>
+  <solution>
+    <number>1</number>
+    <water>1</water>
+    <air>0</air>
+    <energy>0</energy>
+    <mountains>0</mountains>
+    <text>Я закрываю кран, когда вода мне не нужна.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>2</number>
+    <water>1</water>
+    <air>0</air>
+    <energy>0</energy>
+    <mountains>0</mountains>
+    <text>Я использую для стирки порошки без фосфатов.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>3</number>
+    <water>1</water>
+    <air>0</air>
+    <energy>0</energy>
+    <mountains>0</mountains>
+    <text>Я использую натуральное мыло и шампунь.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>4</number>
+    <water>2</water>
+    <air>0</air>
+    <mountains>0</mountains>
+    <energy>0</energy>
+    <text>Я использую натуральные средства для мытья посуды.</text>
+    <key>1</key>
+  </solution>
+  <solution>
+    <number>5</number>
+    <water>2</water>
+    <air>0</air>
+    <mountains>0</mountains>
+    <energy>0</energy>
+    <text>Я экономно расходую воду.</text>
+    <key>1</key>
+  </solution>
+  <solution>
+    <number>6</number>
+    <water>0</water>
+    <air>0</air>
+    <mountains>0</mountains>
+    <energy>1</energy>
+    <text>Я вынимаю зарядные устройства из розетки, когда ими не пользуюсь.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>7</number>
+    <water>0</water>
+    <air>0</air>
+    <mountains>0</mountains>
+    <energy>1</energy>
+    <text>Я компостирую пищевы отходы.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>8</number>
+    <water>0</water>
+    <air>0</air>
+    <mountains>0</mountains>
+    <energy>1</energy>
+    <text>Я использую энергосберегающие лампочки.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>9</number>
+    <water>0</water>
+    <air>0</air>
+    <mountains>0</mountains>
+    <energy>2</energy>
+    <text>Я покупаю энергоэффективные электроприборы.</text>
+    <key>1</key>
+  </solution>
+  <solution>
+    <number>10</number>
+    <water>0</water>
+    <air>0</air>
+    <mountains>0</mountains>
+    <energy>1</energy>
+    <text>Я ем меньше мяса и больше фруктов, овощей и злаков.</text>
+    <key>1</key>
+  </solution>
+  <solution>
+    <number>11</number>
+    <water>0</water>
+    <air>1</air>
+    <mountains>0</mountains>
+    <energy>0</energy>
+    <text>Я использую энергосберегающие лампочки.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>12</number>
+    <water>0</water>
+    <air>1</air>
+    <mountains>0</mountains>
+    <energy>0</energy>
+    <text>Я покупаю энергоэффективные электроприборы.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>13</number>
+    <water>0</water>
+    <air>1</air>
+    <mountains>0</mountains>
+    <energy>0</energy>
+    <text>Я езжу на велосипеде или хожу пешком.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>14</number>
+    <water>0</water>
+    <air>2</air>
+    <mountains>0</mountains>
+    <energy>0</energy>
+    <text>Я сажаю деревья.</text>
+    <key>1</key>
+  </solution>
+  <solution>
+    <number>15</number>
+    <water>0</water>
+    <air>2</air>
+    <mountains>0</mountains>
+    <energy>0</energy>
+    <text>Я покупаю местные продукты.</text>
+    <key>1</key>
+  </solution>
+  <solution>
+    <number>16</number>
+    <water>0</water>
+    <air>0</air>
+    <mountains>1</mountains>
+    <energy>0</energy>
+    <text>Я покупаю товары с минимумом упаковки.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>17</number>
+    <water>0</water>
+    <air>0</air>
+    <mountains>1</mountains>
+    <energy>0</energy>
+    <text>Я чиню сломанные вещи или нахожу им новое применени.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>18</number>
+    <water>0</water>
+    <air>0</air>
+    <mountains>1</mountains>
+    <energy>0</energy>
+    <text>Я покупаю качественные вещи, которые прослужат долго.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>19</number>
+    <water>0</water>
+    <air>0</air>
+    <mountains>2</mountains>
+    <energy>0</energy>
+    <text>Я бережно отношусь к вещам.</text>
+    <key>1</key>
+  </solution>
+  <solution>
+    <number>20</number>
+    <water>0</water>
+    <air>0</air>
+    <mountains>2</mountains>
+    <energy>0</energy>
+    <text>Я отдаю ненужные мне вещи тем, кому они нужны.</text>
+    <key>1</key>
+  </solution>
+  <solution>
+    <number>21</number>
+    <water>1</water>
+    <air>0</air>
+    <mountains>0</mountains>
+    <energy>1</energy>
+    <text>Я собираю макулатуру и сдаю её на переработку.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>22</number>
+    <water>1</water>
+    <air>0</air>
+    <mountains>0</mountains>
+    <energy>1</energy>
+    <text>Я провожу много времени вне помещения.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>23</number>
+    <water>0</water>
+    <air>1</air>
+    <mountains>0</mountains>
+    <energy>1</energy>
+    <text>Я покупаю сезонные продукты.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>24</number>
+    <water>0</water>
+    <air>1</air>
+    <mountains>0</mountains>
+    <energy>1</energy>
+    <text>Я путешествую на поездах вместо самолётов.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>24</number>
+    <water>0</water>
+    <air>1</air>
+    <mountains>0</mountains>
+    <energy>1</energy>
+    <text>Я путешествую на поездах вместо самолётов.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>25</number>
+    <water>1</water>
+    <air>0</air>
+    <mountains>1</mountains>
+    <energy>0</energy>
+    <text>Я убираю мусор на природе за собой и за другими.</text>
+    <key>0</key>
+  </solution>
+  <solution>
+    <number>26</number>
+    <water>1</water>
+    <air>0</air>
+    <mountains>1</mountains>
+    <energy>0</energy>
+    <text>Я не выбрасываю батарейки, а сдаю их на переработку.</text>
+    <key>0</key>
+  </solution>
+</solutions>

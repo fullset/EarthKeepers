@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<districts>
+  <district>
+    <name>road</name>
+    <badside>Нелёгкая дорога</badside>
+    <goodside>Лёгкая дорога</goodside>  
+  </district>
+  <district>
+    <name>fabric</name>
+    <badside>Нечистый завод</badside>
+    <goodside>Чистый завод</goodside>  
+  </district>
+  <district>
+    <name>forest</name>
+    <badside>Несчастный лес</badside>
+    <goodside>Счастливый лес</goodside>  
+  </district>
+  <district>
+    <name>river</name>
+    <badside>Неживая река</badside>
+    <goodside>Живая река</goodside>  
+  </district>
+  <district>
+    <name>market</name>
+    <badside>Нечестный рынок</badside>
+    <goodside>Честный рынок</goodside>  
+  </district>
+  <district>
+    <name>district</name>
+    <badside>Недобрый квартал</badside>
+    <goodside>Добрый квартал</goodside>  
+  </district>
+</districts>

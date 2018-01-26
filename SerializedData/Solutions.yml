@@ -1,0 +1,41 @@
+---
+Number: 1
+Water: 1
+Air: 0
+Energy: 0
+Mountains: 0
+Text: 
+  Я закрываю кран,
+  когда вода мне не нужна.
+Key: False
+---
+Number: 2
+Water: 1
+Air: 0
+Energy: 0
+Mountains: 0
+Text:
+  Я использую для стирки
+  порошки без фосфатов
+Key: False
+---
+Number: 3
+Water: 1
+Air: 0
+Energy: 0
+Mountains: 0
+Text:
+  Я использую натуральное
+  мыло и шампунь
+Key: False
+---
+Number: 4
+Water: 2
+Air: 0
+Mountains: 0
+Energy: 0
+Text:
+  Я использую натуральные
+  средства для мытья посуды
+Key: True
+---

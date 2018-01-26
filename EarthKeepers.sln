@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EarthKeepers", "EarthKeepers\EarthKeepers.vcxproj", "{FAAFDDB3-1568-42A4-BA6A-1F116037AF47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAAFDDB3-1568-42A4-BA6A-1F116037AF47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FAAFDDB3-1568-42A4-BA6A-1F116037AF47}.Debug|Win32.Build.0 = Debug|Win32
+		{FAAFDDB3-1568-42A4-BA6A-1F116037AF47}.Release|Win32.ActiveCfg = Release|Win32
+		{FAAFDDB3-1568-42A4-BA6A-1F116037AF47}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
